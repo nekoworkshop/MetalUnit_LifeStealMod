@@ -4,6 +4,6 @@
   "Author": "Nekoworkshop",
   "Version": "1.0.0",
   "GameVersion": "0.3.4",
-  "AssemblyName": "Lifesteal.dll",
-  "EntryMethod": "Lifesteal.Main.Load"
+  "AssemblyName": "LifeSteal.dll",
+  "EntryMethod": "LifeSteal.Main.Load"
 }
